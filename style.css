@@ -1,0 +1,18 @@
+* {
+ background-color: black;
+}
+#timer {
+  font-size: 150px;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-item: center;
+}
+
+#image-container {
+  display: none;
+  background-repeat: no repeat;
+  opacity: 5;
+  
+}
